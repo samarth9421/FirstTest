@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: credit-risk
+Version: 0.1.0
+Summary: Calculates credit risk and gives interpreted DNN graphs
+Home-page: UNKNOWN
+Author: Team A8
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8.0

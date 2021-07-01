@@ -1,0 +1,9 @@
+dill==0.3.3
+mpld3==0.5.2
+lime==0.2.0.1
+joblib==1.0.1
+pandas==1.2.4
+scikit_learn==0.24.2
+pytest==6.2.4
+wheel==0.36.2
+

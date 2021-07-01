@@ -1,0 +1,16 @@
+include *.txt
+include *.md
+include *.cfg
+include *.pkl
+recursive-include ./credit_risk/*
+
+include credit_risk/save_data/datasets/train_data.csv
+include credit_risk/save_data/datasets/test_data.csv
+include credit_risk/save_data/trained_models/*.pkl
+include credit_risk/save_data/untrained_models/*.pkl
+include credit_risk/save_data/lime_estimator/*.pkl
+
+include ./requirements.txt
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
